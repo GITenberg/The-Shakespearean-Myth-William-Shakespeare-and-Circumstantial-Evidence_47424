@@ -1,10 +1,16 @@
 _repo: The-Shakespearean-Myth-William-Shakespeare-and-Circumstantial-Evidence_47424
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47424-h/images/cover.jpg
 creator:
   author:
     agent_name: Morgan, Appleton
     gutenberg_agent_id: '44306'
     url: http://www.gutenberg.org/2009/agents/44306
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47424#The-Shakespearean-Myth-William-Shakespeare-and-Circumstantial-Evidence
 gutenberg_issued: '2014-11-22'
 gutenberg_type: Text
 identifiers:
